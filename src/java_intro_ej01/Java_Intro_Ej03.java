@@ -4,7 +4,7 @@ package java_intro_ej01;
 import java.util.Scanner;
 
 public class Java_Intro_Ej03 {
-    public static void metodo3(){
+    public static void pedirXpantalla2(){
         
         Scanner leer = new Scanner(System.in);
         

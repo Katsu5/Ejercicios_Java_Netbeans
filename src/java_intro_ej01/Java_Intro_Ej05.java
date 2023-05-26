@@ -3,7 +3,7 @@ package java_intro_ej01;
 import java.util.Scanner;
 
 public class Java_Intro_Ej05 {
-    public static void metodo5() {
+    public static void practicaIfElse() {
         Scanner leer = new Scanner(System.in);
         
         System.out.println("Ingrese 2 numero");

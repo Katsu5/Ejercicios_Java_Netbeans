@@ -2,7 +2,7 @@
 package java_intro_ej01;
 import java.util.Scanner;
 public class Java_Intro_Ej04 {
-    public static void metodo4(){
+    public static void ingresoXteclado(){
         
         Scanner leer = new Scanner(System.in);
         
