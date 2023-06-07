@@ -1,8 +1,10 @@
+/*Implementar un programa que le pida dos números enteros a usuario y determine si ambos o
+alguno de ellos es mayor a 25.*/
 
 package java_intro_ej01;
 import java.util.Scanner;
 
-public class Java_Intro_Ej05 {
+public class Java_Intro_Ej05_ifelse {
     public static void practicaIfElse() {
         Scanner leer = new Scanner(System.in);
         

@@ -1,7 +1,7 @@
 
 package java_intro_ej01;
 
-public class Java_Intro_Ej02 {
+public class Java_Intro_Ej02_inicializarVar {
     public static void asignarDatos() {
        String nombre = "Katia Susa";
        int edad=37;
