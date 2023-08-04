@@ -14,7 +14,6 @@ public class POO_Ej01 {
         
        servicio.mostrarLibro(libro);
         
-
     }
 
 }
