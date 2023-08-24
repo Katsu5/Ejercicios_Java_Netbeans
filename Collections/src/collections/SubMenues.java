@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class SubMenues {
 
     public void showMenu() {
+        
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese el ejercicio que desea ejecutar: ");
         int opcion = teclado.nextInt();
